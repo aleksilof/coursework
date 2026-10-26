@@ -38,9 +38,9 @@ sf2524-matrix-computations-for-large-scale-systems/
 
 Each folder contains:
 - `README.md`: the problem, method and key results
-- `report.pdf`: the full written report
+- `hwx_report.pdf`: the full written report for homework number x
 - `src/`: MATLAB code
-- `figures/`: plots used in the report
+- `images/`: plots used in the report
 
 ## Running the code
 
@@ -48,14 +48,9 @@ Requires MATLAB (tested on R20XX). Open MATLAB in an assignment's `src/` folder
 and run the main script for each problem, e.g.:
 
 ```matlab
-run('problem2_power_method.m')
+run('HW1_SF2524.m')
 ```
 
 Some problems use data files provided by the course (e.g. `Bwedge.mat`,
 `olivetti_faces.mat`, heatsink matrices). These are not included in this repo.
 See each assignment's README for details.
-
-## Acknowledgements
-
-Assignments designed by Elias Jarlebring, KTH. Template code provided by the
-course (e.g. `arnoldi.m`, `pcg_v1.m`, `schur_parlett.m`) is not included.
