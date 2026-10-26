@@ -37,7 +37,6 @@ sf2524-matrix-computations-for-large-scale-systems/
 ```
 
 Each folder contains:
-- `README.md`: the problem, method and key results
 - `hwx_report.pdf`: the full written report for homework number x
 - `src/`: MATLAB code
 - `images/`: plots used in the report
