@@ -46,8 +46,8 @@ coursework/
 │   └── hw1-…/ hw2-…/ hw3-…/
 ├── sf2930-regression-analysis/
 │   ├── README.md
-│   ├── regression-model-building/
-│   └── glm-insurance-pricing/
+│   ├── project1-regression-model-building/
+│   └── project2-glm-insurance-pricing/
 └── sf2955-computer-intensive-methods-in-mathematical-statistics/
     ├── README.md
     └── ha1-…/ ha2-…/
