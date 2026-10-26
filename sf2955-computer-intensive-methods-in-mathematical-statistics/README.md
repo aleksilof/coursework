@@ -42,5 +42,4 @@ Each folder contains:
 ## Running the code
 
 Requires MATLAB. Open MATLAB in an assignment's `src/` folder
-and run its main script. Data files provided by the course (e.g. `stations.mat`,
-`RSSI-measurements.mat`, `coal-mine.csv`) are not included in this repo.
+and run its main script. 
