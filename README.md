@@ -12,6 +12,7 @@ Reports are included as PDFs alongside the code used in the project.
 |---|---|---|---|
 | [SF2524 – Matrix Computations for Large-scale Systems](sf2524-matrix-computations-for-large-scale-systems/) | HT 2025 | MATLAB | Krylov methods (Arnoldi, GMRES, CG), preconditioning, QR method, matrix functions |
 | [SF2955 – Computer Intensive Methods in Mathematical Statistics](sf2955-computer-intensive-methods-in-mathematical-statistics/) | VT 2026 | MATLAB | Sequential Monte Carlo, particle filters, MCMC, Hamiltonian Monte Carlo |
+| [SF2930 – Regression Analysis](sf2930-regression-analysis/) | VT 2026 | R, Python | Linear regression, diagnostics, variable selection, ridge/Lasso, GLMs, insurance pricing |
 
 <!--
 To add a course, add one row to the table above:
@@ -42,6 +43,10 @@ coursework/
 ├── sf2524-matrix-computations-for-large-scale-systems/
 │   ├── README.md
 │   └── hw1-…/ hw2-…/ hw3-…/
+├── sf2930-regression-analysis/
+│   ├── README.md
+│   ├── regression-model-building/
+│   └── glm-insurance-pricing/
 └── sf2955-computer-intensive-methods-in-mathematical-statistics/
     ├── README.md
     └── ha1-…/ ha2-…/
