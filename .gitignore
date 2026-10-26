@@ -1,0 +1,7 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+
+# Course data files (have to be manually chosen)
+*.mat
+*.csv
